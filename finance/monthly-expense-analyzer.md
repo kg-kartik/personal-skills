@@ -33,7 +33,7 @@ At the very top of the table/sheet (or rows 1-4), always display these 4 numbers
 - **Closing Balance**
 
 ### 3. Hierarchical Category Structure
-- **Main Category Headers**: Clean bold header row with no numbers (e.g. `Shopping & Lifestyle`, `Personal Transfers`, `Stocks & Broking (Groww/TMPVL)`, `Mutual Funds & SIP`, `Groceries`, `Dining & Food Delivery`, `Utilities & Bills`, `Subscriptions`, `Refunds & Reversals`, `Others / Local Spends`, `Income / Salary`).
+- **Main Category Headers**: Clean bold header row with no numbers (e.g. `Shopping & Lifestyle`, `Personal Transfers`, `Stocks & Broking (Groww)`, `Mutual Funds & SIP`, `Groceries`, `Dining & Food Delivery`, `Utilities & Bills`, `Subscriptions`, `Refunds & Reversals`, `Others / Local Spends`, `Income / Salary`).
 - **Sub-category Entities**: Listed underneath each category with:
   - Entity Name
   - Debit (₹)
