@@ -15,8 +15,9 @@ Fetch monthly account statements from Gmail, analyze and categorize cash inflows
    - If the statement PDF attachment cannot be accessed or loaded directly in the environment, ALWAYS provide the exact, copy-pasteable Gmail search filter query in a standalone code block so the user can easily paste it into the Gmail search bar.
    - Standard format:
      ```text
-     from:sbi filename:pdf after:YYYY/MM/DD before:YYYY/MM/DD
+     from:<bank_name> filename:pdf after:YYYY/MM/DD before:YYYY/MM/DD
      ```
+   - Dynamically substitute `<bank_name>` with the bank identifier/name specified by the user (or search based on the specific institution requested).
 
 ## Core Rules & Formatting Requirements
 
